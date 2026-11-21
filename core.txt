@@ -1,4 +1,1 @@
- HEAD
-feature A
 feature A - Fixed
- 800143c (Update core.txt)
