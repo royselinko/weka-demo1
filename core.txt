@@ -1,2 +1,2 @@
-feature A
+feature A - Fixed
 Feature B
